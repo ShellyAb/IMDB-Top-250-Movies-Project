@@ -4,4 +4,5 @@ I converted the non-num other columns into numeric data types while ignoring any
 (I also rounded a bit the values for a  easier display)
 
 My first Question was- How many movies were debuted in the last 50 years? (1972-2022)
+![How many movies were debuted in the last 50 years?](movies debuted the last 50 years.PNG)
 
