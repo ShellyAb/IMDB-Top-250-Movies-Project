@@ -1,10 +1,10 @@
-After i uploaded my Database i exanimed it and selected a subset of columns with the relevant data for the analysis.
+After i uploaded my Database i examined it and selected a subset of columns with the relevant data for the analysis.
 
 I converted the non-num other columns into numeric data types while ignoring any non-numeric value.The non-numeric are converted to NaN.
 (I also rounded a bit the values for a  easier display)
 
 My first Question was- How many movies were debuted in the last 50 years? (1972-2022)
 
-![Alt text](movies debuted the last 50 years.PNG)
+![Alt text](https://github.com/ShellyAb/IMDB-Top-250-Movies-Project.wiki.git)
 
 
